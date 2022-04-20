@@ -1,7 +1,7 @@
 ### <h1 align="center"> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Alexander Adam is here. (Loading...)
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alparslanguven/) 
-<a href="https://alexanderadam2022.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=sfrancis33" alt="visitor counter" width="15%"/>
+<a href="https://alexanderadam2022.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=alexanderadam" alt="visitor counter" width="15%"/>
 <!-- <p align="center">  </p> -->
 
 ### What I'm using ? 🛠
@@ -41,6 +41,6 @@ I prefer Amazon Web Services & DevOps Tools.
 
 ## 📊 Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sfrancis33&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sfrancis33&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sfrancis33&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=alexanderadam&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alexanderadam&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderadam&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
